@@ -8,9 +8,9 @@
 
 ### Languages and Tools:
 
-![php](https://user-images.githubusercontent.com/69697560/154499324-57ddc63b-171e-4c4a-b688-f1b685354ee8.png)
-![docker](https://user-images.githubusercontent.com/69697560/154499312-1d3ba482-e66d-418e-8949-dd3877d31d8b.png)
-![js](https://user-images.githubusercontent.com/69697560/154499327-3d52961f-311f-4925-9ab3-d1b085418de3.png)
+[![php](https://user-images.githubusercontent.com/69697560/154499324-57ddc63b-171e-4c4a-b688-f1b685354ee8.png)](https://php.net)
+[![docker](https://user-images.githubusercontent.com/69697560/154499312-1d3ba482-e66d-418e-8949-dd3877d31d8b.png)](https://www.docker.com/)
+[![js](https://user-images.githubusercontent.com/69697560/154499327-3d52961f-311f-4925-9ab3-d1b085418de3.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![mysql](https://user-images.githubusercontent.com/69697560/154499329-6bb1b128-701f-4179-bddc-fb6d28f18369.png)
 ![html-5](https://user-images.githubusercontent.com/69697560/154499317-b1686df8-5dfa-49e2-8e8f-2ac2a7394b07.png)
 ![css](https://user-images.githubusercontent.com/69697560/154499318-eb37b2da-4c92-4b60-aad8-1f84d3ec1c85.png)
