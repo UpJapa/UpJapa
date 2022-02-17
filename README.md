@@ -4,7 +4,8 @@
 ### Connect with me:
 [![instagram](https://user-images.githubusercontent.com/69697560/154495378-9fd24963-1fab-400a-adcf-415196dd7154.png)](https://www.instagram.com/vitsk8_/) 
 [![linkedin](https://user-images.githubusercontent.com/69697560/154497284-e81a0e8b-ee25-410e-89a4-3b0c1b5faf0f.png)](https://www.linkedin.com/in/vitor-costa-80a71220b/) 
-![Japonês#0244](https://user-images.githubusercontent.com/69697560/154499740-9c0ae965-f914-4f98-aaf9-83bd1af0c6b3.png) 
+![discordia](https://user-images.githubusercontent.com/69697560/154505831-d874889e-13f6-43e4-a962-e789a458a241.png)
+
 
 ### Languages and Tools:
 
@@ -15,6 +16,6 @@
 [![html-5](https://user-images.githubusercontent.com/69697560/154499317-b1686df8-5dfa-49e2-8e8f-2ac2a7394b07.png)](https://www.w3.org/html/)
 [![css](https://user-images.githubusercontent.com/69697560/154499318-eb37b2da-4c92-4b60-aad8-1f84d3ec1c85.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![bootstrap](https://user-images.githubusercontent.com/69697560/154499323-b6149e6a-40f5-4799-b4ab-20170e97466d.png)](https://getbootstrap.com/)
+![magento](https://user-images.githubusercontent.com/69697560/154505959-0f3c9986-758d-45bb-a040-238c7c59a376.png)
 
-<a href="https://magento.com" target="_blank"><img src="https://user-images.githubusercontent.com/69697560/154504017-d7bacaed-d9ba-4f93-af63-c2524e1dfdcd.png" width="250px"></a>
 
