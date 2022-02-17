@@ -16,5 +16,5 @@
 [![css](https://user-images.githubusercontent.com/69697560/154499318-eb37b2da-4c92-4b60-aad8-1f84d3ec1c85.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![bootstrap](https://user-images.githubusercontent.com/69697560/154499323-b6149e6a-40f5-4799-b4ab-20170e97466d.png)](https://getbootstrap.com/)
 
-<img src="https://user-images.githubusercontent.com/69697560/154504017-d7bacaed-d9ba-4f93-af63-c2524e1dfdcd.png" width="250px">
+<a href="https://magento.com"><img src="https://user-images.githubusercontent.com/69697560/154504017-d7bacaed-d9ba-4f93-af63-c2524e1dfdcd.png" width="250px"></a>
 
