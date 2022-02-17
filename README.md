@@ -1,4 +1,4 @@
-<h2 align="center"> 👀 Hi, I’m Vitor Costa </h2>
+### 👀 Hi, I’m Vitor Costa 
 
 
 ### Connect with me:
